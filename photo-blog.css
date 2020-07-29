@@ -1,0 +1,17 @@
+img
+{
+	width: 30%;
+	float:left;
+	margin: 1.66%
+}
+
+p
+{
+	border-bottom: 2px solid rgba(153, 153, 102, 0.8);
+	margin-left: 1.66%;
+	color: rgb(91, 91, 62);
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size:35px;
+	width:30%;
+	padding-bottom: 2px;
+}
